@@ -1,8 +1,0 @@
-{
-  "name": "ajmc",
-  "version": "1.0.1",
-  "description": "Ajax Multi-Commentary",
-  "dependencies": {
-    "@teipublisher/pb-components": "latest"
-  }
-}
