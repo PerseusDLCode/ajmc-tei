@@ -14,6 +14,13 @@
 				<p>Created from public domain scans of the public domain commentary</p>
 			</sourceDesc>
 		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="deu">German</language>
+				<language ident="grc">Greek</language>
+				<language ident="lat">Latin</language>
+			</langUsage>
+		</profileDesc>
 		<revisionDesc>
 			<change when="2024-02-23" who="#AjMC">Initial TEI export</change>
 		</revisionDesc>
